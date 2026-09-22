@@ -1,0 +1,15 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+api/state.json
+api/__pycache__/
+tmp/
+
+.idea/
+*.iml
+.env
+.env.*
+*.jks
+*.keystore
+*.log
